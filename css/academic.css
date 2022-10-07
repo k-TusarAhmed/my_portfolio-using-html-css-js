@@ -1,0 +1,176 @@
+body{
+	background:#e9fcf8;
+}
+.bg-light {
+    background-color: #996633 !important;
+}
+#navbarSupportedContent ul li a{
+	color:white;
+	font-size:17px;
+}
+#navbarSupportedContent ul li a:hover{
+	color:#ccff33;
+}
+.form-inline button{
+	color:white;
+	background:#1abc9c;
+}
+.navbar-light>.collapse> .navbar-nav >.active > .nav-link{
+	color: #ccff33 !important;
+}
+
+/* career description */
+.resume{
+	margin:35px 0px;
+}
+.section-title h2{
+	text-align:center;
+	font-weight:bold;
+	font-style:italic;
+	color:green;
+}
+.section-title p{
+	text-align:center;
+}
+.section-title hr{
+	border-bottom:2px solid red;
+	width:26%;
+}
+.resume .resume-title {
+	font-size: 26px;
+	font-weight: 700;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	color: #050d18;
+}
+.resume .resume-item h4 {
+	line-height: 18px;
+	font-size: 18px;
+	font-weight: 600;
+	text-transform: uppercase;
+	font-family: "Poppins", sans-serif;
+	color: #050d18;
+	margin-bottom: 10px;
+}
+
+.resume-item b {
+	color: green;
+}
+.resume .resume-item h5 {
+	font-size: 16px;
+	background: #e4edf9;
+	padding: 5px 15px;
+	display: inline-block;
+	font-weight: 600;
+	margin-bottom: 10px;
+}
+.resume .resume-item {
+	padding: 0 0 20px 20px;
+	margin-top: -2px;
+	border-left: 2px solid #1f5297;
+	position: relative;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* navbar */
+footer{
+	background:#996633;
+	text-align:center;
+	padding:12px 0px;
+	margin-bottom:5px;
+}
+
+footer>.container>p{
+	font-size:20px;
+	color:white;
+}
+
+.social-links>a>i{
+	font-size:28px;
+	display:inline-block;
+	margin:2px 4px;
+	border-radius:50%;
+	background:white;
+	transition:0.2s;
+}
+.social-links>.twitter>i{
+	color:#1A91DA;
+	padding:10px 10px;
+}
+
+.social-links>.twitter>i:hover{
+	color:white;
+	background:#1A91DA;
+}
+
+.social-links>.facebook>i{
+	color:#4267B2;
+	padding:10px 15px;
+}
+.social-links>.facebook>i:hover{
+	color:white;
+	background:#4267B2;
+}
+
+.social-links>.instagram>i{
+	color:#C70092;
+	padding:10px 10px;
+}
+
+.social-links>.instagram>i:hover{
+	color:white;
+	background:#C70092;
+}
+
+.social-links>.whatsapp>i{
+	color:#00E676;
+	padding:10px 10px;
+}
+
+.social-links>.whatsapp>i:hover{
+	color:white;
+	background:#00E676;
+}
+
+.social-links>.linkedin>i{
+	color:#0077B5;
+	padding:10px 10px;
+}
+
+
+.social-links>.linkedin>i:hover{
+	color:white;
+	background:#0077B5;
+}
+
+.copyright{
+	font-size:14px;
+	color:white;
+	margin-top:15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+

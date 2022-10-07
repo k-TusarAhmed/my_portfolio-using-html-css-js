@@ -1,0 +1,169 @@
+/* navbar */
+.bg-light {
+    background-color: #996633 !important;
+}
+#navbarSupportedContent ul li a{
+	color:white;
+	font-size:17px;
+}
+#navbarSupportedContent ul li a:hover{
+	color:#ccff33;
+}
+.form-inline button{
+	color:white;
+	background:#1abc9c;
+}
+.navbar-light>.collapse> .navbar-nav >.active > .nav-link{
+	color: #ccff33 !important;
+}
+
+/* career part */
+.career{
+	margin:25px 0px;
+}
+
+.career>.container>h2{
+	text-align:center;
+	font-weight:bold;
+	font-style:italic;
+	color:green;
+}
+
+.career>.container>hr{
+	border-bottom:2px solid red;
+	width:20%;
+}
+
+.career>.container>p{
+	text-align:center;
+	font-size:18px;
+	word-spacing:2px;
+	line-height:30px;
+}
+
+.fa-quote-left, .fa-quote-right{
+	font-size:20px;
+	color:blue;
+}
+.pie-title-center {
+  display: inline-block;
+  position: relative;
+  text-align: center;
+}
+
+.pie-value {
+  display: block;
+  position: absolute;
+  font-size: 45px;
+  height: 40px;
+  top: 50%;
+  left: 0;
+  right: 0;
+  margin-top: -20px;
+  line-height: 40px;
+}
+
+.middle{
+	color:#2c3e50;
+	display:block;
+	background:#ecf0f1;
+	padding:8px 10px;
+}
+.col-md-4{
+	margin-bottom:50px;
+}
+.col-md-4>p{
+	font-size:25px;
+	color:red;
+	text-decoration:underline;
+}
+
+
+/* footer */
+footer{
+	background:#996633;
+	text-align:center;
+	padding:12px 0px;
+	margin-bottom:5px;
+}
+
+footer>.container>p{
+	font-size:20px;
+	color:white;
+}
+
+.social-links>a>i{
+	font-size:28px;
+	display:inline-block;
+	margin:2px 4px;
+	border-radius:50%;
+	background:white;
+	transition:0.2s;
+}
+.social-links>.twitter>i{
+	color:#1A91DA;
+	padding:10px 10px;
+}
+
+.social-links>.twitter>i:hover{
+	color:white;
+	background:#1A91DA;
+}
+
+.social-links>.facebook>i{
+	color:#4267B2;
+	padding:10px 15px;
+}
+.social-links>.facebook>i:hover{
+	color:white;
+	background:#4267B2;
+}
+
+.social-links>.instagram>i{
+	color:#C70092;
+	padding:10px 10px;
+}
+
+.social-links>.instagram>i:hover{
+	color:white;
+	background:#C70092;
+}
+
+.social-links>.whatsapp>i{
+	color:#00E676;
+	padding:10px 10px;
+}
+
+.social-links>.whatsapp>i:hover{
+	color:white;
+	background:#00E676;
+}
+
+.social-links>.linkedin>i{
+	color:#0077B5;
+	padding:10px 10px;
+}
+
+
+.social-links>.linkedin>i:hover{
+	color:white;
+	background:#0077B5;
+}
+
+.copyright{
+	font-size:14px;
+	color:white;
+	margin-top:15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
